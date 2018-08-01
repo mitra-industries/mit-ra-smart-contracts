@@ -1,0 +1,8 @@
+{
+  "name": "mit-ra-smart-contracts",
+  "version": "0.2.6",
+  "private": true,
+  "dependencies": {
+    "zeppelin-solidity": "^1.9.0"
+  }
+}
